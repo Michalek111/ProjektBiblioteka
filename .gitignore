@@ -1,0 +1,12 @@
+# Pliki i foldery debugowe
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.log
+
+# Pliki konfiguracyjne Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
